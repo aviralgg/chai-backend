@@ -1,7 +1,7 @@
 import multer from "multer";
 
 
-// copy from multer git repo Readme file
+// copy from multer git repo Readme file and modify it
 const storage = multer.diskStorage({
   destination: function (req, file, cb) {
     cb(null, "./public/temp");
