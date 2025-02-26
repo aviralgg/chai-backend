@@ -2,4 +2,6 @@
 
 This is a video series on backend with javascript
 
-[Link Text](https://app.eraser.io/workspace/YtPqZ1VogxGy1jzIDkzj)
+<p align="center">
+  <a href="https://app.eraser.io/workspace/YtPqZ1VogxGy1jzIDkzj">Model Link</a>
+</p>
